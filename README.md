@@ -1,4 +1,4 @@
-progtech1-bead1
+Teremfoglalás kezelő
 ===============
 
 
